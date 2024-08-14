@@ -20,5 +20,3 @@ My favourite movies Page
 after closing the browser/refreshing the browser).
 - Remove from favourites button: Each movie should have remove from favourites
 button, clicking on which should remove that movie from the list.
-
-Live link: https://sanjeev-dhakjariwala.github.io/movie-web-app/
